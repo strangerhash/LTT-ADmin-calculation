@@ -1,0 +1,12 @@
+.text-on-line {
+    width: 100%;
+    text-align: center;
+    text-transform: uppercase;
+    border-bottom: 1px solid #eaecec;
+    line-height: 0.1em;
+    margin: 20px 0 20px;
+}
+.text-on-line span {
+    background: #fff;
+    padding: 0 10px;
+}
